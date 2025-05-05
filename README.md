@@ -20,10 +20,13 @@ A modern, responsive grocery shopping web application built using **React.js**, 
 - **Backend & Auth:** Firebase (Authentication, Firestore, Hosting)
 - **State Management:** React Context / useState (or Redux, if used)
 - **Styling:** Custom CSS / Tailwind / CSS Modules (mention what you used)
+![Picture1](https://github.com/user-attachments/assets/ac2d4c18-01ff-459e-8061-6a348ca96e24)
 
 ## 🔧 Installation & Setup
 
 1. **Clone the repo**
    ```bash
    git clone https://github.com/your-username/grocery-shop.git
-   cd grocery-shop
+   cd grocery-shop\
+
+   
